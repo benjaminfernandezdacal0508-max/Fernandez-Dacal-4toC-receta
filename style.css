@@ -7,13 +7,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #bd771c;
+    background-color: #f3b25e;
 }
 
 header, main, footer {
     padding: 20px;
     margin: 10px;
-    background: rgb(223, 109, 105);
+    background: rgb(179, 130, 129);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -29,7 +29,7 @@ header, main, footer {
 }
  a {
     text-decoration: none;
-    color: #c000fa;
+    color: #67e6f7;
     font-weight: bold;
 }
 
